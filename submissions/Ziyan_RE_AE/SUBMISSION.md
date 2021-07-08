@@ -22,7 +22,7 @@ BAS Case include:
 
   (1)SemanticBIM.rdf
   
-  description: The open domain model of BAS (https://gitlab.fi.muni.cz/ xkucer16/semanticBMS) includes 484 entities, all of which are Classes entities.
+  description: The open domain model of BAS (https://gitlab.fi.muni.cz/xkucer16/semanticBMS) includes 484 entities, all of which are Classes entities.
       
   (2)Standard-Building-Automation-System-BAS-Specification-for-City-Buildings-2015.pdf
   
@@ -31,9 +31,9 @@ BAS Case include:
 
 ### Artifacts Location
 
-https://github.com/ZacharyZhao55/UAV-REQ-DomainModel
+https://zenodo.org/badge/latestdoi/379543441
 
-https://github.com/ZacharyZhao55/BAS-REQ-DomainModel
+https://zenodo.org/badge/latestdoi/379543441
 
 ### Article Title
 
